@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "composite": true,
+    "module": "ESNext",
+    "moduleResolution": "Node",
+    "allowSyntheticDefaultImports": true
+  },
+  "include": ["vite.config.ts"]
+}
+
+//Por exemplo, se você tiver outros arquivos de configuração do Node, como tsup.config.ts ou webpack.config.ts, você poderia modificar o include assim:
+//"include": ["vite.config.ts", "tsup.config.ts", "webpack.config.ts"]
