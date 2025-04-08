@@ -64,7 +64,7 @@ O foco principal está em entregar uma experiência fluida e funcional, tanto na
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/seu-usuario/coffee-delivery.git
+$ git clone https://github.com/BrushColor/desafio-coffee-delivery-ReactJs
 
 # Acesse a pasta do projeto
 $ cd coffee-delivery
